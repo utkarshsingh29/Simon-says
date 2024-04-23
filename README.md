@@ -1,0 +1,1 @@
+This is a simon says game.For the development of this game HTML,CSS and JAVASCRIPT is used.
